@@ -1,5 +1,3 @@
-# Regular expressions
-
 import re
 
 with open("ips.txt", "r") as ip_addresses:
